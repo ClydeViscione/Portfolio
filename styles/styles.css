@@ -14,7 +14,7 @@ body {
     width: 100%;
     height: 80vh;
     aspect-ratio: 16/9;
-    background: #000;
+    background: #2b003d; 
     position: relative;
 }
 
@@ -34,14 +34,14 @@ body {
 }
 
 h1 {
-    color: plum;
+    color: #d8b4ff; 
     font-size: 5rem;
 }
 
 h2 {
     font-size: 3rem;
     margin-bottom: 100px;
-    color: purple;
+    color: #a855f7; 
 }
 
 p {
@@ -50,7 +50,7 @@ p {
 }
 
 .slider-content p {
-    color: hotpink;
+    color: #c084fc; 
     font-size: 2rem;
     font-weight: 500;
 }
@@ -77,8 +77,8 @@ p {
 }
 
 .dark {
-    background: black;
-    color: #fff;
+    background: #1e0b2c; 
+    color: #e0c3fc; 
 }
 
 .w110 {
@@ -87,7 +87,6 @@ p {
 
 .w100 {
     width: 100%;
-    color: blueviolet;
 }
 
 .w25 {
@@ -107,7 +106,7 @@ p {
 }
 
 .skill {
-    background: fuchsia;
+    background: #7c3aed; 
     border-radius: 15px;
     padding: 20px;
 }
@@ -124,8 +123,7 @@ p {
 .icon {
     display: block;
     font-size: 40px;
-    color: fuchsia;
-}
+    color: #d8b4ff; 
 
 .label {
     display: block;
@@ -133,16 +131,16 @@ p {
     text-transform: uppercase;
     margin: 10px 0;
     font-size: 1.5rem;
-    color: fuchsia;
+    color: #d8b4ff; 
 }
 
 .value {
     display: block;
-    color: fuchsia;
+    color: #c084fc; 
 }
 
 .contact {
-    border: 2px dashed fuchsia;
+    border: 2px dashed #c084fc; 
     border-radius: 5px;
     padding: 15px;
 }
